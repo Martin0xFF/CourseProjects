@@ -208,12 +208,14 @@ int main(void){
 			}
 		}
 
-printMatrix(*test,r,co);
-
+	printf("\n input matrix \n");
+	printMatrix(*test,r,co);
+	
 	ge_fw(*test,r,co);
 
 	ge_bw(*test,r,co);
-
+	
+	printf("\n output matrix \n");
 	printMatrix(*test,r,co);
 
 }
