@@ -1,1 +1,9 @@
 
+Part 1 - 7-seg display module
+       - setting up the logic to display binary coded decimal numbers
+       
+Part 2 - extending the display to two decimal numbers up to 15
+
+Part 3 - creating the full adder module
+
+Part 4 - using the full adder to sum two input values
