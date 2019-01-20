@@ -2,3 +2,5 @@ This folder contains a basic python chess player which was an exercise in implem
 
 
 Interpreting duelChess.py (with chesslib.py in the same folder) will allow you to play chess against the basic player.
+
+chessP.py tests the look-ahead chess player against the basic 'safe only chess player' which never makes moves which will result in a loss of peices. 
